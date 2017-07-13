@@ -1,7 +1,7 @@
 # <img src="http://numenta.org/87b23beb8a4b7dea7d88099bfb28d182.svg" alt="NuPIC Logo" width=100/> NuPIC
 
 ## Numenta Platform for Intelligent Computing
-
+This clone of nupic is attempting diagnose retinal diseases
 The Numenta Platform for Intelligent Computing (**NuPIC**) is a machine intelligence platform that implements the [HTM learning algorithms](http://numenta.com/learn/hierarchical-temporal-memory-white-paper.html). HTM is a detailed computational theory of the neocortex. At the core of HTM are time-based continuous learning algorithms that store and recall spatial and temporal patterns. NuPIC is suited to a variety of problems, particularly anomaly detection and prediction of streaming data sources. For more information, see [numenta.org](http://numenta.org) or the [NuPIC Forum](https://discourse.numenta.org/c/nupic).
 
 For usage guides, quick starts, and API documentation, see <http://nupic.docs.numenta.org/>.
